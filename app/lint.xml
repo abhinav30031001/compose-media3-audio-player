@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Enforce security and correctness checks -->
+    <issue id="HardcodedDebugMode" severity="fatal" />
+    <issue id="ProtectedPermissions" severity="fatal" />
+    <issue id="ExportedPreferenceActivity" severity="fatal" />
+    <issue id="GrantAllUris" severity="fatal" />
+    <issue id="WorldReadableFiles" severity="fatal" />
+    <issue id="WorldWriteableFiles" severity="fatal" />
+    <issue id="BadHostnameVerifier" severity="fatal" />
+    <issue id="TrustAllX509TrustManager" severity="fatal" />
+    
+    <!-- MusicPlayerService is intentionally exported for Android Auto / MediaSession with controller validation -->
+    <issue id="ExportedService" severity="informational" />
+</lint>

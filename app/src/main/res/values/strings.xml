@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YT Music</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_library">Library</string>
+    <string name="search_hint">Search songs, artists, albums</string>
+    <string name="offline_downloads">Downloads (Offline)</string>
+    <string name="quick_picks">Quick picks</string>
+    <string name="start_radio">START RADIO</string>
+    <string name="playback_channel_name">Music Playback</string>
+    <string name="playback_channel_description">Active media playback and lockscreen controls</string>
+</resources>

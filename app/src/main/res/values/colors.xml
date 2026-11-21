@@ -1,0 +1,10 @@
+<resources>
+    <!-- YouTube Music Signature Colors -->
+    <color name="yt_background">#030303</color>
+    <color name="yt_surface">#121212</color>
+    <color name="yt_surface_variant">#212121</color>
+    <color name="yt_primary_red">#FF0000</color>
+    <color name="yt_text_primary">#FFFFFF</color>
+    <color name="yt_text_secondary">#AAAAAA</color>
+    <color name="yt_chip_background">#272727</color>
+</resources>
